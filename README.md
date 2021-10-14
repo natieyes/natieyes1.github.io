@@ -1,5 +1,5 @@
 ## Evol_Nt の blog
-###  [![1](http://latex.codecogs.com/svg.lstex?$\mathcal{BLOG}$)](https://www.luogu.com.cn/blog/natieyes/)
+###  [![](http://latex.codecogs.com/svg.lstex?$\mathcal{BLOG}$)](https://www.luogu.com.cn/blog/natieyes/)
 
 ### [$\mathcal{CNBLOG}$](https://www.cnblogs.com/NtYester)
 
